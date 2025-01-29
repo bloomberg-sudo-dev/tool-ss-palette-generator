@@ -51,7 +51,7 @@ To create a standalone executable:
 3. Find the executable in the `dist` folder
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/bloomberg-sudo-dev/tool-ss-palette-generator/issues) if you want to contribute.
 
 ## License
 MIT License
